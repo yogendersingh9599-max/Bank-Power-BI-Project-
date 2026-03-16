@@ -124,3 +124,10 @@ Banks can identify which countries have more customers.
 
 👥 Customer Segmentation
 Banks can target specific groups such as adults or customers with good credit scores.
+
+First Insight of the Project: https://github.com/yogendersingh9599-max/Bank-Power-BI-Project-/blob/main/Total_Customers.png
+
+
+
+
+
